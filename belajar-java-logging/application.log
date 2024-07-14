@@ -1,0 +1,106 @@
+15:01:00.595 [main] TRACE alamsyah.hutama.logging.LevelTest - Trace
+15:01:00.595 [main] DEBUG alamsyah.hutama.logging.LevelTest - Debug
+15:01:00.595 [main] INFO  alamsyah.hutama.logging.LevelTest - Info
+15:01:00.595 [main] WARN  alamsyah.hutama.logging.LevelTest - Warning
+15:01:00.595 [main] ERROR alamsyah.hutama.logging.LevelTest - Error
+15:02:54.267 [main] ERROR contoh.ContohTest - Contoh
+15:08:08.638 [main] TRACE alamsyah.hutama.logging.LevelTest - Trace
+15:08:08.639 [main] DEBUG alamsyah.hutama.logging.LevelTest - Debug
+15:08:08.639 [main] INFO  alamsyah.hutama.logging.LevelTest - Info
+15:08:08.639 [main] WARN  alamsyah.hutama.logging.LevelTest - Warning
+15:08:08.640 [main] ERROR alamsyah.hutama.logging.LevelTest - Error
+15:13:07:24.684 [main] TRACE alamsyah.hutama.logging.LevelTest - Trace
+15:13:07:24.685 [main] DEBUG alamsyah.hutama.logging.LevelTest - Debug
+15:13:07:24.685 [main] INFO  alamsyah.hutama.logging.LevelTest - Info
+15:13:07:24.686 [main] WARN  alamsyah.hutama.logging.LevelTest - Warning
+15:13:07:24.687 [main] ERROR alamsyah.hutama.logging.LevelTest - Error
+15:13:13:24.382 [main] TRACE alamsyah.hutama.logging.LevelTest - Trace
+15:13:13:24.383 [main] DEBUG alamsyah.hutama.logging.LevelTest - Debug
+15:13:13:24.383 [main] INFO  alamsyah.hutama.logging.LevelTest - Info
+15:13:13:24.384 [main] WARN  alamsyah.hutama.logging.LevelTest - Warning
+15:13:13:24.384 [main] ERROR alamsyah.hutama.logging.LevelTest - Error
+2024-03-11 15:20:34.172 [main] TRACE alamsyah.hutama.logging.LevelTest - Trace
+2024-03-11 15:20:34.173 [main] DEBUG alamsyah.hutama.logging.LevelTest - Debug
+2024-03-11 15:20:34.174 [main] INFO  alamsyah.hutama.logging.LevelTest - Info
+2024-03-11 15:20:34.174 [main] WARN  alamsyah.hutama.logging.LevelTest - Warning
+2024-03-11 15:20:34.174 [main] ERROR alamsyah.hutama.logging.LevelTest - Error
+2024-03-11 15:21:32.764 [main] TRACE alamsyah.hutama.logging.LevelTest - Trace
+2024-03-11 15:21:32.766 [main] DEBUG alamsyah.hutama.logging.LevelTest - Debug
+2024-03-11 15:21:32.766 [main] INFO  alamsyah.hutama.logging.LevelTest - Info
+2024-03-11 15:21:32.767 [main] WARN  alamsyah.hutama.logging.LevelTest - Warning
+2024-03-11 15:21:32.767 [main] ERROR alamsyah.hutama.logging.LevelTest - Error
+2024-03-11 15:30:06.696 [main] INFO  a.hutama.logging.MyController - 50300ae7-c7f5-47e1-b110-07e113c1a4fc - Repository Save 
+2024-03-11 15:30:06.698 [main] INFO  alamsyah.hutama.logging.MyService - 50300ae7-c7f5-47e1-b110-07e113c1a4fc - Service Save 
+2024-03-11 15:30:06.699 [main] INFO  a.hutama.logging.MyRepository - 50300ae7-c7f5-47e1-b110-07e113c1a4fc - Repository Save 
+2024-03-11 15:33:56.643 [main] INFO  a.hutama.logging.MyController - [] - 9f5699c5-7047-4bf8-8156-db096316284d - Repository Save 
+2024-03-11 15:33:56.646 [main] INFO  alamsyah.hutama.logging.MyService - [] - 9f5699c5-7047-4bf8-8156-db096316284d - Service Save 
+2024-03-11 15:33:56.646 [main] INFO  a.hutama.logging.MyRepository - [] - 9f5699c5-7047-4bf8-8156-db096316284d - Repository Save 
+2024-03-11 15:35:57.803 [main] INFO  a.hutama.logging.MyController - [4ec42a2f-b746-4e4c-b331-0d8e1a4f009e] - 4ec42a2f-b746-4e4c-b331-0d8e1a4f009e - Repository Save 
+2024-03-11 15:35:57.805 [main] INFO  alamsyah.hutama.logging.MyService - [4ec42a2f-b746-4e4c-b331-0d8e1a4f009e] - 4ec42a2f-b746-4e4c-b331-0d8e1a4f009e - Service Save 
+2024-03-11 15:35:57.806 [main] INFO  a.hutama.logging.MyRepository - [4ec42a2f-b746-4e4c-b331-0d8e1a4f009e] - 4ec42a2f-b746-4e4c-b331-0d8e1a4f009e - Repository Save 
+2024-03-11 15:35:57.806 [main] INFO  a.hutama.logging.MyController - [] - 4ec42a2f-b746-4e4c-b331-0d8e1a4f009e - Repository Save 
+2024-03-11 15:35:57.806 [main] INFO  alamsyah.hutama.logging.MyService - [] - 4ec42a2f-b746-4e4c-b331-0d8e1a4f009e - Service Save 
+2024-03-11 15:35:57.806 [main] INFO  a.hutama.logging.MyRepository - [] - 4ec42a2f-b746-4e4c-b331-0d8e1a4f009e - Repository Save 
+2024-03-11 15:40:27.459 [main] INFO  a.hutama.logging.MyController - [b133bc5b-efc8-41e2-8302-90eee7800abe] - Controller Save 
+2024-03-11 15:40:27.460 [main] INFO  alamsyah.hutama.logging.MyService - [b133bc5b-efc8-41e2-8302-90eee7800abe] - Service Save 
+2024-03-11 15:40:27.460 [main] INFO  a.hutama.logging.MyRepository - [b133bc5b-efc8-41e2-8302-90eee7800abe] - Repository Save 
+2024-03-11 15:50:00.661 [Thread-6] INFO  a.hutama.logging.MyController - [0b85121d-6274-405b-86f3-0aac12d57a61] - Controller Save 
+2024-03-11 15:50:00.661 [Thread-0] INFO  a.hutama.logging.MyController - [74edc5d6-b9b3-44f7-bfa3-bf0bd91503db] - Controller Save 
+2024-03-11 15:50:00.662 [Thread-6] INFO  alamsyah.hutama.logging.MyService - [0b85121d-6274-405b-86f3-0aac12d57a61] - Service Save 
+2024-03-11 15:50:00.661 [Thread-5] INFO  a.hutama.logging.MyController - [55bfbd3e-64cb-4bf8-beff-c6ea59beb1b2] - Controller Save 
+2024-03-11 15:50:00.662 [Thread-6] INFO  a.hutama.logging.MyRepository - [0b85121d-6274-405b-86f3-0aac12d57a61] - Repository Save 
+2024-03-11 15:50:00.663 [Thread-5] INFO  alamsyah.hutama.logging.MyService - [55bfbd3e-64cb-4bf8-beff-c6ea59beb1b2] - Service Save 
+2024-03-11 15:50:00.661 [Thread-1] INFO  a.hutama.logging.MyController - [8f5d8506-e14c-448f-92ac-3127c36b5da3] - Controller Save 
+2024-03-11 15:50:00.661 [Thread-3] INFO  a.hutama.logging.MyController - [dad28a28-9b5d-46b7-b957-4b187911dc66] - Controller Save 
+2024-03-11 15:50:00.663 [Thread-1] INFO  alamsyah.hutama.logging.MyService - [8f5d8506-e14c-448f-92ac-3127c36b5da3] - Service Save 
+2024-03-11 15:50:00.663 [Thread-1] INFO  a.hutama.logging.MyRepository - [8f5d8506-e14c-448f-92ac-3127c36b5da3] - Repository Save 
+2024-03-11 15:50:00.663 [Thread-3] INFO  alamsyah.hutama.logging.MyService - [dad28a28-9b5d-46b7-b957-4b187911dc66] - Service Save 
+2024-03-11 15:50:00.662 [Thread-0] INFO  alamsyah.hutama.logging.MyService - [74edc5d6-b9b3-44f7-bfa3-bf0bd91503db] - Service Save 
+2024-03-11 15:50:00.661 [Thread-4] INFO  a.hutama.logging.MyController - [4eed599e-85b7-4b08-89cc-9c3f12d8fb0c] - Controller Save 
+2024-03-11 15:50:00.663 [Thread-5] INFO  a.hutama.logging.MyRepository - [55bfbd3e-64cb-4bf8-beff-c6ea59beb1b2] - Repository Save 
+2024-03-11 15:50:00.661 [Thread-2] INFO  a.hutama.logging.MyController - [e0be4384-8491-4bf6-847f-8370964d9cd0] - Controller Save 
+2024-03-11 15:50:00.663 [Thread-0] INFO  a.hutama.logging.MyRepository - [74edc5d6-b9b3-44f7-bfa3-bf0bd91503db] - Repository Save 
+2024-03-11 15:50:00.663 [Thread-2] INFO  alamsyah.hutama.logging.MyService - [e0be4384-8491-4bf6-847f-8370964d9cd0] - Service Save 
+2024-03-11 15:50:00.663 [Thread-2] INFO  a.hutama.logging.MyRepository - [e0be4384-8491-4bf6-847f-8370964d9cd0] - Repository Save 
+2024-03-11 15:50:00.661 [Thread-8] INFO  a.hutama.logging.MyController - [c8155631-7823-4905-8fc1-d7c5f1e364ac] - Controller Save 
+2024-03-11 15:50:00.661 [Thread-7] INFO  a.hutama.logging.MyController - [e73fbcee-555d-4bf2-8bd4-2ec818de672b] - Controller Save 
+2024-03-11 15:50:00.664 [Thread-8] INFO  alamsyah.hutama.logging.MyService - [c8155631-7823-4905-8fc1-d7c5f1e364ac] - Service Save 
+2024-03-11 15:50:00.664 [Thread-8] INFO  a.hutama.logging.MyRepository - [c8155631-7823-4905-8fc1-d7c5f1e364ac] - Repository Save 
+2024-03-11 15:50:00.664 [Thread-7] INFO  alamsyah.hutama.logging.MyService - [e73fbcee-555d-4bf2-8bd4-2ec818de672b] - Service Save 
+2024-03-11 15:50:00.664 [Thread-7] INFO  a.hutama.logging.MyRepository - [e73fbcee-555d-4bf2-8bd4-2ec818de672b] - Repository Save 
+2024-03-11 15:50:00.661 [Thread-9] INFO  a.hutama.logging.MyController - [28d730dc-e5f4-4e75-ab63-91d7426e619b] - Controller Save 
+2024-03-11 15:50:00.664 [Thread-9] INFO  alamsyah.hutama.logging.MyService - [28d730dc-e5f4-4e75-ab63-91d7426e619b] - Service Save 
+2024-03-11 15:50:00.663 [Thread-3] INFO  a.hutama.logging.MyRepository - [dad28a28-9b5d-46b7-b957-4b187911dc66] - Repository Save 
+2024-03-11 15:50:00.664 [Thread-9] INFO  a.hutama.logging.MyRepository - [28d730dc-e5f4-4e75-ab63-91d7426e619b] - Repository Save 
+2024-03-11 15:50:00.663 [Thread-4] INFO  alamsyah.hutama.logging.MyService - [4eed599e-85b7-4b08-89cc-9c3f12d8fb0c] - Service Save 
+2024-03-11 15:50:00.664 [Thread-4] INFO  a.hutama.logging.MyRepository - [4eed599e-85b7-4b08-89cc-9c3f12d8fb0c] - Repository Save 
+2024-03-11 15:51:02.267 [Thread-8] INFO  a.hutama.logging.MyController - [968b0a99-f851-4a61-8e09-861fd6d3b6a3] - Controller Save 
+2024-03-11 15:51:02.267 [Thread-1] INFO  a.hutama.logging.MyController - [bee9d3d2-eb11-4cee-8b28-b216e602199a] - Controller Save 
+2024-03-11 15:51:02.267 [Thread-3] INFO  a.hutama.logging.MyController - [76fd8df3-4495-4e51-acf8-259d7c20ded7] - Controller Save 
+2024-03-11 15:51:02.267 [Thread-2] INFO  a.hutama.logging.MyController - [23534ee6-20fe-468b-83b6-2e1126c31eb7] - Controller Save 
+2024-03-11 15:51:02.268 [Thread-8] INFO  alamsyah.hutama.logging.MyService - [968b0a99-f851-4a61-8e09-861fd6d3b6a3] - Service Save 
+2024-03-11 15:51:02.268 [Thread-2] INFO  alamsyah.hutama.logging.MyService - [23534ee6-20fe-468b-83b6-2e1126c31eb7] - Service Save 
+2024-03-11 15:51:02.268 [Thread-8] INFO  a.hutama.logging.MyRepository - [968b0a99-f851-4a61-8e09-861fd6d3b6a3] - Repository Save 
+2024-03-11 15:51:02.268 [Thread-2] INFO  a.hutama.logging.MyRepository - [23534ee6-20fe-468b-83b6-2e1126c31eb7] - Repository Save 
+2024-03-11 15:51:02.267 [Thread-0] INFO  a.hutama.logging.MyController - [1ddbdb50-5189-4484-a0ba-0c77d7c6f2ff] - Controller Save 
+2024-03-11 15:51:02.268 [Thread-1] INFO  alamsyah.hutama.logging.MyService - [bee9d3d2-eb11-4cee-8b28-b216e602199a] - Service Save 
+2024-03-11 15:51:02.267 [Thread-7] INFO  a.hutama.logging.MyController - [c0b5a100-46a7-45b2-8a2b-27e30eba6a1b] - Controller Save 
+2024-03-11 15:51:02.267 [Thread-5] INFO  a.hutama.logging.MyController - [715968e1-5774-4b74-85a3-e86d0160e94d] - Controller Save 
+2024-03-11 15:51:02.269 [Thread-7] INFO  alamsyah.hutama.logging.MyService - [c0b5a100-46a7-45b2-8a2b-27e30eba6a1b] - Service Save 
+2024-03-11 15:51:02.269 [Thread-5] INFO  alamsyah.hutama.logging.MyService - [715968e1-5774-4b74-85a3-e86d0160e94d] - Service Save 
+2024-03-11 15:51:02.269 [Thread-7] INFO  a.hutama.logging.MyRepository - [c0b5a100-46a7-45b2-8a2b-27e30eba6a1b] - Repository Save 
+2024-03-11 15:51:02.269 [Thread-5] INFO  a.hutama.logging.MyRepository - [715968e1-5774-4b74-85a3-e86d0160e94d] - Repository Save 
+2024-03-11 15:51:02.268 [Thread-3] INFO  alamsyah.hutama.logging.MyService - [76fd8df3-4495-4e51-acf8-259d7c20ded7] - Service Save 
+2024-03-11 15:51:02.267 [Thread-6] INFO  a.hutama.logging.MyController - [06ed6163-53d3-4afc-93d4-b4025e417307] - Controller Save 
+2024-03-11 15:51:02.269 [Thread-3] INFO  a.hutama.logging.MyRepository - [76fd8df3-4495-4e51-acf8-259d7c20ded7] - Repository Save 
+2024-03-11 15:51:02.269 [Thread-6] INFO  alamsyah.hutama.logging.MyService - [06ed6163-53d3-4afc-93d4-b4025e417307] - Service Save 
+2024-03-11 15:51:02.267 [Thread-9] INFO  a.hutama.logging.MyController - [b5e18e73-da7c-460f-9aea-beba1997a475] - Controller Save 
+2024-03-11 15:51:02.269 [Thread-6] INFO  a.hutama.logging.MyRepository - [06ed6163-53d3-4afc-93d4-b4025e417307] - Repository Save 
+2024-03-11 15:51:02.267 [Thread-4] INFO  a.hutama.logging.MyController - [8bef723f-2fd6-4bc2-bb21-d64cb644bcb3] - Controller Save 
+2024-03-11 15:51:02.268 [Thread-0] INFO  alamsyah.hutama.logging.MyService - [1ddbdb50-5189-4484-a0ba-0c77d7c6f2ff] - Service Save 
+2024-03-11 15:51:02.268 [Thread-1] INFO  a.hutama.logging.MyRepository - [bee9d3d2-eb11-4cee-8b28-b216e602199a] - Repository Save 
+2024-03-11 15:51:02.269 [Thread-9] INFO  alamsyah.hutama.logging.MyService - [b5e18e73-da7c-460f-9aea-beba1997a475] - Service Save 
+2024-03-11 15:51:02.270 [Thread-0] INFO  a.hutama.logging.MyRepository - [1ddbdb50-5189-4484-a0ba-0c77d7c6f2ff] - Repository Save 
+2024-03-11 15:51:02.270 [Thread-9] INFO  a.hutama.logging.MyRepository - [b5e18e73-da7c-460f-9aea-beba1997a475] - Repository Save 
+2024-03-11 15:51:02.270 [Thread-4] INFO  alamsyah.hutama.logging.MyService - [8bef723f-2fd6-4bc2-bb21-d64cb644bcb3] - Service Save 
+2024-03-11 15:51:02.270 [Thread-4] INFO  a.hutama.logging.MyRepository - [8bef723f-2fd6-4bc2-bb21-d64cb644bcb3] - Repository Save 
